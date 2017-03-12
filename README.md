@@ -1,1 +1,4 @@
-# cmf
+# CMF
+
+
+Content managment framework
